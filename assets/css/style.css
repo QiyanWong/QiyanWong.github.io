@@ -638,7 +638,13 @@ SOCIAL ICON
     background: url(../images/video-bg.jpg) no-repeat center center;
     background-size: cover;
     position: relative;
-    min-height: 500px;
+    min-height: 330px;
+}
+.video-section span {
+    position:absolute;
+    bottom:0;
+    right:0;
+    font-size: 0.6em
 }
 
 .video-intro {
